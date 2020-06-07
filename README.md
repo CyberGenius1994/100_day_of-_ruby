@@ -5,7 +5,7 @@ This is my Challenge about Ruby learn.
 Every day I want to spend 1 hour to learn Ruby. 
 
 Вивчаю Ruby за книгою Хела Фултона "Путь Ruby" 3 видання
-![Хел Фултон Путь Ruby] (https://revall.info/wp-content/uploads/2015/11/put-ruby-trete-izdanie.jpg)
+![Хел Фултон Путь Ruby] (images/put-ruby-trete-izdanie.jpg)
 ### Day 1
 **Введення в ООП.**
 **Базовий синтаксис і семантика в Ruby**
