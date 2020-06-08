@@ -10,6 +10,7 @@ Every day I want to spend 1 hour to learn Ruby.
 
 ### [Day 1](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/day1.rb)
 **Введення в ООП.**
+
 **Базовий синтаксис і семантика в Ruby**
 * Ключові слова тa ідентифікатори 
 * Коментарі
@@ -22,7 +23,8 @@ Every day I want to spend 1 hour to learn Ruby.
 * Цикли й розгалуження
 
 ### [Day 3](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/day3.rb)
-**Базовий синтаксис і семантика в Ruby**
+**Базовий синтаксис і семантика в Ruby.**
+
 **ООП в Ruby**
 * Виключення
 * Приклад використання виключень [Exceptions.rb](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/Exceptions.rb)
