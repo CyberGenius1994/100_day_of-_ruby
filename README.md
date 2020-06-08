@@ -15,8 +15,17 @@ Every day I want to spend 1 hour to learn Ruby.
 * Коментарі
 * Константи, змінні та типи
 
-### [Day 1](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/day2.rb)
+### [Day 2](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/day2.rb)
 **Базовий синтаксис і семантика в Ruby**
 * Оператори і пріоритети
-* Приклад 1 програми Hello World 
+* Приклад першої програми [Hello World](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/Hello_World.rb)
 * Цикли й розгалуження
+
+### [Day 3](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/day3.rb)
+**Базовий синтаксис і семантика в Ruby**
+**ООП в Ruby**
+* Виключення
+* Приклад використання виключень [Exceptions.rb](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/Exceptions.rb)
+* Об'єкти
+* Вбудовані класи
+* Модулі і класи-домішки
