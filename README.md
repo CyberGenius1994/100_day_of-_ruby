@@ -27,7 +27,13 @@ Every day I want to spend 1 hour to learn Ruby.
 
 **ООП в Ruby**
 * Виключення
-* Приклад використання виключень [Exceptions.rb](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/Exceptions.rb)
+* Приклад використання виключень [Exceptions](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/Exceptions.rb)
 * Об'єкти
 * Вбудовані класи
 * Модулі і класи-домішки
+
+### [Day 4](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/day4.rb)
+**ООП в Ruby**
+* Створення класів
+* Приклад створення класів [Classes](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/Classes.rb)
+*
