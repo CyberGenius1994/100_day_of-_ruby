@@ -36,4 +36,12 @@ Every day I want to spend 1 hour to learn Ruby.
 **ООП в Ruby**
 * Створення класів
 * Приклад створення класів [Classes](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/Classes.rb)
-*
+
+### [Day 5](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/day5.rb)
+**ООП в Ruby**
+
+**Динамічні аспекти Ruby**
+* Методи й атрибути
+* Приклад створення класів [Methods](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/Methods.rb)
+* Кодування під час виконання
+* Приклад написання умов під час виконання [Dynamic_Ruby](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/Dynamic_Ruby.rb)
