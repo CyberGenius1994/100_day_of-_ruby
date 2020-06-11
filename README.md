@@ -45,3 +45,9 @@ Every day I want to spend 1 hour to learn Ruby.
 * Приклад створення класів [Methods](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/Methods.rb)
 * Кодування під час виконання
 * Приклад написання умов під час виконання [Dynamic_Ruby](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/Dynamic_Ruby.rb)
+
+### [Day 6](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/day6.rb)
+**Динамічні аспекти Ruby**
+* Відображення
+* Відсутні методи
+* Прибирання сміття
