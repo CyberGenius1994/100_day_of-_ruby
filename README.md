@@ -51,3 +51,7 @@ Every day I want to spend 1 hour to learn Ruby.
 * Відображення
 * Відсутні методи
 * Прибирання сміття
+
+### [Day 7](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/day7.rb)
+**Повторення пройденого**
+* Синтаксис
