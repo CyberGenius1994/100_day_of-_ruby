@@ -55,3 +55,7 @@ Every day I want to spend 1 hour to learn Ruby.
 ### [Day 7](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/day7.rb)
 **Повторення пройденого**
 * Синтаксис
+
+### [Day 8](https://github.com/CyberGenius1994/100_day_of_ruby/blob/master/day8.rb)
+**Повторення пройденого**
+* Відмінності від інших мов програмування
